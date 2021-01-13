@@ -1,6 +1,6 @@
 **ETH TOKEN SWAP EXCHANGE**
 
-Etherum, Solidity, Web3.js, Truffle, React.js
+Ethereum, Solidity, Web3.js, Truffle, React.js
 
 ![img.png](img.png)
 
